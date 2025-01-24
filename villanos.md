@@ -2,4 +2,4 @@
 
 * Loki
 * Thanos
-* Dr. Strange
+* Capitan America
